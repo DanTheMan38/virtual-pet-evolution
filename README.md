@@ -163,3 +163,5 @@ print(personality_trait)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+# virtual-pet-evolution
+An interactive virtual pet with evolving personality traits using C++, SQL, and Python. Features real-time animations, behavior tracking, and AI-driven adaptation based on user interaction.
