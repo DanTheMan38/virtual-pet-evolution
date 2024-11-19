@@ -1,5 +1,4 @@
 CREATE DATABASE virtual_pet;
-
 USE virtual_pet;
 
 CREATE TABLE interactions (
