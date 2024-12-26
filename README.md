@@ -2,6 +2,9 @@
 
 An interactive virtual pet with evolving personality traits using C++, SQL, and Python. Features real-time animations, behavior tracking, and AI-driven adaptation based on user interaction.
 
+## Project Update
+After much consideration, I have decided to put this project on hold to focus on other exciting opportunities. The work done here represents a significant step in understanding virtual pet mechanics and AI-driven behavior, and I hope it serves as a helpful foundation or inspiration for others. Thank you for your support and interest in this project!
+
 ## Project Features
 - **C++**: Handles the pet's interface and animations.
 - **SQL**: Stores pet stats, behaviors, and user interaction history.
